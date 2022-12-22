@@ -6,6 +6,12 @@ This project was bootstrapped with [CRUD-ReactJS-MySQL-NodeJS]().
 
 In the project directory, you can run:
 
+### `npm install`
+
+To run the app we need to install react libraries.\
+Open terminal and run given command.
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
